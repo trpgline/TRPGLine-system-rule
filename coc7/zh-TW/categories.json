@@ -1,0 +1,18 @@
+[
+  {
+    "id": "gameSystem",
+    "name": "遊戲系統"
+  },
+  {
+    "id": "combat",
+    "name": "戰鬥"
+  },
+  {
+    "id": "sanity",
+    "name": "理智"
+  },
+  {
+    "id": "summary",
+    "name": "總結"
+  }
+]

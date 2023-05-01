@@ -1,0 +1,18 @@
+[
+  {
+    "id": "gameSystem",
+    "name": "Game System"
+  },
+  {
+    "id": "combat",
+    "name": "Combat"
+  },
+  {
+    "id": "sanity",
+    "name": "Sanity"
+  },
+  {
+    "id": "summary",
+    "name": "Summary"
+  }
+]
