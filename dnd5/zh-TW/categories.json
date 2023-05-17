@@ -10,5 +10,9 @@
   {
     "id": "movement",
     "name": "移動介紹"
+  },
+  {
+    "id": "environment",
+    "name": "環境"
   }
 ]

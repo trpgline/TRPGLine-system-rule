@@ -10,5 +10,9 @@
   {
     "id": "movement",
     "name": "Movement"
+  },
+  {
+    "id": "environment",
+    "name": "The Environment"
   }
 ]
