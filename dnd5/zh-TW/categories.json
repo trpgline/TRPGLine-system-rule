@@ -6,5 +6,9 @@
   {
     "id": "combat",
     "name": "戰鬥"
+  },
+  {
+    "id": "movement",
+    "name": "移動介紹"
   }
 ]
