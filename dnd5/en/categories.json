@@ -14,5 +14,9 @@
   {
     "id": "environment",
     "name": "The Environment"
+  },
+  {
+    "id": "equipment",
+    "name": "Equipment"
   }
 ]

@@ -14,5 +14,9 @@
   {
     "id": "environment",
     "name": "環境"
+  },
+  {
+    "id": "equipment",
+    "name": "裝備"
   }
 ]
