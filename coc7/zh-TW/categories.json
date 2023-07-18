@@ -8,6 +8,10 @@
     "name": "戰鬥"
   },
   {
+    "id": "chase",
+    "name": "追逐"
+  },
+  {
     "id": "sanity",
     "name": "理智"
   },
