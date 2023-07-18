@@ -8,6 +8,10 @@
     "name": "Combat"
   },
   {
+    "id": "chase",
+    "name": "Chase"
+  },
+  {
     "id": "sanity",
     "name": "Sanity"
   },
