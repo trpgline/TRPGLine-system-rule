@@ -101,7 +101,7 @@
   },
   {
     "id": "tools",
-    "name": "Tools",
+    "name": "工具",
     "description": "一件工具能幫你做一些你離了它就無法做成的事情，例如制作或修復一件物品，偽造一份文件，或是撬開一把鎖。你的種族，職業，背景或專長提供給你對特定工具的擅長。擅長於一種工具允許你將你的擅長加值加在任何你使用該工具做出的屬性檢定中。工具使用並不局限於單一的屬性，因為擅長於一種工具意味著對它的使用的廣泛的知識。例如，DM可能會讓你做一次敏捷檢定以便用你的木雕師工具雕出一個良好的細節，或是一個力量檢定以從特別堅硬的木材中作出什麽來。",
     "tabs": [
       {
@@ -111,6 +111,29 @@
       {
         "name": "工具介紹",
         "content": "**工匠工具**：這些特別的工具包括制造或交易物品所需的物品。該表格展現了工具的最普遍的例子，每種都能提供關系一門手藝的物品。擅長於一種工匠工具能令你在你的手藝中使用該工具做出的屬性檢定上加上你的擅長加值。每種工匠工具都需要單獨的擅長。  \n  \n**易容工具**：這袋化妝品，染發劑和小支撐物能令你創造出一個改變了你的物理外表的位置。擅長於此工具能令你在創造一種可視的偽裝中所做的任何屬性檢定上加上你的擅長加值。  \n  \n**文書偽造工具**：這個小盒子裏盛有一系列的紙和羊皮紙，筆和墨水，封印和封蠟，金葉和銀葉以及對於偽造出一份可信的物理文件所必須的其它設備。擅長於此工具能令你在一份文件的物理偽造中所做的任何屬性檢定上加上你的擅長加值。  \n\n**\u200B賭具**：這種物品包括一個很寬範圍內的賭博用具，其中有骰子和成幅的紙牌。（例如三龍牌這樣的遊戲）一些常見的例子在工具表中出現，但是其它種類的賭局同樣存在。如果你擅長於一種賭局，你能在使用該賭具進行一次賭博所做的任何屬性檢定上加上你的擅長加值。每種賭具都需要單獨的擅長。  \n  \n**草藥師工具**：這件工具包含一系列器具如推剪，杵和臼，以及草藥師使用的小包和小瓶，它們能令你在鑒別或運用草藥時所做的任何屬性檢定上加上你的擅長加值。同樣，對這種工具的擅長對於制作抗毒劑和治療藥水是必須的。  \n  \n**樂器**：表格中列出了幾種最常見類型的樂器列作為例子。如果擅長於一項特定的樂器，你能在使用該樂器演奏音樂所做的任何屬性檢定上加上你的擅長加值。每種樂器都需要單獨的擅長。  \n  \n**航海者工具**：這套工具被用於在海上航海。擅長於航海者工具令你能繪制一艘船的航線，並使用航海圖表。另外，擅長於這些工具能令你在避免海上迷航所做的任何屬性檢定上加上你的擅長加值。  \n  \n**使毒工具**：一套使毒工具包括小瓶，化學品和其他用以制造毒藥的必須用具。擅長於此工具能令你在制造或使用毒藥中所做的任何屬性檢定上加上你的擅長加值。  \n  \n**盜賊工具**：這套工具包括一把小銼刀，一套開鎖器，一面裝在金屬柄上的小鏡子，一套柳葉剪刀，以及一把鉗子。擅長於這些工具能令你在解除陷阱或開鎖中所做的任何屬性檢定上加上你的擅長加值。"
+      }
+    ]
+  },
+  {
+    "id": "mountsAndVehicles",
+    "name": "Mounts And Vehicles",
+    "description": "A good mount can help you move more quickly through  the  wilderness,  but  its  primary  purpose  is  to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal’s speed and base carrying capacity.\n\nAn animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can  add their carrying capacity together.\n\nMounts other than those listed here are available in fantasy gaming worlds, but they are rare and not normally  available  for  purchase.  These  include  flying mounts (pegasi, griffons, hippogriffs, and similar animals) and even aquatic mounts (giant sea horses, for example). Acquiring such a mount often means securing an egg and raising the creature yourself, making a bargain with a powerful entity, or negotiating with the mount itself.",
+    "tabs": [
+      {
+        "name": "Equipment",
+        "content": "**_Barding._** Barding  is  armor  designed  to  protect  an animal’s head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.\n\n**_Saddles._** A military saddle braces the rider,  helping you keep your seat on an active mount in battle.  It  gives  you  advantage  on  any  check  you  make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount.\n\n**_Vehicle Proficiency._** If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances.\n\n**_Rowed Vessels._** Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be  pulled  upstream  by  draft  animals  on  the  shores.  A rowboat weighs 100 pounds, in case adventurers carry it over land"
+      },
+      {
+        "name": "Mounts and Other Animals",
+        "content": "|item          |cost  |Speed |Capacity |\n|--------------|------|------|---------|\n|Camel         |50g[  |50ft  |480 lb.  |\n|Donkey or mule|8gp   |40ft  |420 lb.  |\n|Elephant      |200gp |40ft  |1,320 lb.|\n|Horse, draft  |50 gp |40 ft.|540 lb.  |\n|Horse, riding |75 gp |60 ft.|480 lb.  |\n|Mastiff       |25 gp |40 ft.|195 lb.  |\n|Pony          |30 gp |40 ft.|225 lb.  |\n|Warhorse      |400 gp|60 ft.|540 lb.  |"
+      },
+      {
+        "name": "Tack, Harness, and Drawn Vehicles",
+        "content": "|Item              |Cost  |Weight |\n|------------------|------|-------|\n|Barding           |×4    |×2     |\n|Bit and bridle    |2 gp  |1 lb.  |\n|Carriage          |100 gp|600 lb.|\n|Cart              |15 gp |200 lb.|\n|Chariot           |250 gp|100 lb.|\n|Feed (per day)    |5 cp  |10 lb. |\n|Saddle            |      |       |\n|Exotic            |60 gp |40 lb. |\n|Military          |20 gp |30 lb. |\n|Pack              |5 gp  |15 lb. |\n|Riding            |10 gp |25 lb. |\n|Saddlebags        |4 gp  |8 lb.  |\n|Sled              |20 gp |300 lb.|\n|Stabling (per day)|5 sp  |—      |\n|Wagon             |35 gp |400 lb.|"
+      },
+      {
+        "name": "Waterborne Vehicles",
+        "content": "|Item         |Cost     |Speed |\n|-------------|---------|------|\n|Galley       |30,000 gp|4 mph |\n|Keelboat     |3,000 gp |1 mph |\n| Longship    |10,000 gp|3mph  |\n|Rowboat      |50 gp    |1½ mph|\n| Sailing ship|10,000 gp|2 mph |\n|warship      |25,000 gp|2½ mph|"
       }
     ]
   }

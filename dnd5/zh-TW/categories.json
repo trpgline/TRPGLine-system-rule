@@ -18,5 +18,9 @@
   {
     "id": "equipment",
     "name": "裝備"
+  },
+  {
+    "id": "expenses",
+    "name": "花費"
   }
 ]

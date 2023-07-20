@@ -18,5 +18,9 @@
   {
     "id": "equipment",
     "name": "Equipment"
+  },
+  {
+    "id": "expenses",
+    "name": "Expenses"
   }
 ]

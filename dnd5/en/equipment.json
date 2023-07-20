@@ -113,5 +113,28 @@
         "content": "**_Artisan’s Tools._** These special tools include the items needed to pursue a craft or trade. The table shows  examples  of  the  most  common  types  of  tools, each providing items related to a single craft.\n\nProficiency  with  a  set  of  artisan’s  tools  lets  you  add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.\n\n**_Disguise Kit._** This pouch of cosmetics, hair dye, and  small  props  lets  you  create  disguises  that  change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.\n\n**_Forgery Kit._** This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax,  gold and silver leaf,  and other supplies necessary  to  create  convincing  forgeries  of  physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.\n\n**_Gaming  Set._** This  item  encompasses  a  wide  range of game pieces, including dice and decks of cards (for games such as Three-\u00AD‐‑Dragon  Ante). A few common examples  appear  on  the  Tools  table,  but  other  kinds of  gaming  sets  exist.  If  you  are  proficient  with  a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate  proficiency.\n\n**_Herbalism Kit._** This kit contains a variety of instruments  such  as  clippers,  mortar  and  pestle,  and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you  add  your  proficiency  bonus  to  any  ability  checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and _potions of healing._\n\n**_Musical  Instrument._** Several  of  the  most  common types  of  musical  instruments  are  shown  on  the  table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.\n\n**_Navigator’s  Tools._** This  set  of  instruments  is  used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.\n\n**_Poisoner’s Kit._** A poisoner’s kit includes the vials, chemicals, and other equipment necessary for the creation of  poisons.  Proficiency  with this  kit  lets  you add  your  proficiency  bonus  to  any  ability  checks  you make to craft or use poisons.\n\n**_Thieves’ Tools._** This set of tools includes a small  file, a set of lock picks, a small mirror mounted on a metal  handle,  a  set  of  narrow-\u00AD‐‑bladed  scissors,  and  a pair of pliers. Proficiency with these tools lets you add  your  proficiency  bonus  to  any  ability  checks  you make to disarm traps or open locks."
       }
     ]
+  },
+  {
+    "id": "mountsAndVehicles",
+    "name": "坐騎與交通工具",
+    "description": "一匹良好的坐騎可以幫助你在荒野中更快地移動，但它的主要目的是攜帶那些否則會減慢你速度的裝備。《坐騎與其他動物》表格顯示了每種動物的速度和基本運載能力。\n\n拉著馬車、手推車、戰車、雪橇或四輪馬車的動物可以運送重量高達其基本運載能力的五倍，包括車輛的重量在內。如果多匹動物一起拉同一輛車，它們的運載能力可以相加。\n\n除了這裡列出的坐騎，幻想遊戲世界中還有其他坐騎，但它們很少見，通常不會出售。這些包括飛行坐騎（如飛馬、獅鷲、獨角獸等）甚至水中坐騎（例如巨型海馬）。獲得這種坐騎通常意味著取得一枚蛋並親手養育這種生物，與強大的實體達成協議，或與坐騎本身進行談判。",
+    "tabs": [
+      {
+        "name": "掛件",
+        "content": "鎧具（Barding）. 鎧具是專為保護動物的頭部、頸部、胸部和身體而設計的護具。在盔甲表格上列出的任何盔甲都可以作為鎧具購買。其價格是相應用於人類的盔甲價格的四倍，且重量是其兩倍。\n\n馬鞍（Saddles）. 軍用馬鞍可以支撐騎手，幫助你在戰鬥中保持在活躍的坐騎上。它使你在任何保持騎乘的檢定上獲得優勢。騎乘任何水中或飛行的坐騎，都需要使用異國馬鞍。\n\n車輛熟練. 如果你具備某種車輛（陸地或水上）的熟練，你可以將你的熟練加值加到任何在困難環境下控制該車輛的檢定上。\n\n槳動船艇. 船隻和划艇通常用於湖泊和河流。如果朝下游前進，則將水流速度（通常為每小時3英里）加到船隻速度上。這些船隻無法對抗任何明顯的逆流，但可以由靠岸的輓船動物拉到上游。划艇重100磅，冒險者在陸上攜帶時可以參考此重量。"
+      },
+      {
+        "name": "坐騎與其他動物",
+        "content": "| 物品  | 價格    | 速度  | 承載量    |\n| --- | ----- | --- | ------ |\n| 駱駝  | 50金幣  | 50尺 | 480磅   |\n| 驢或騾 | 8金幣   | 40尺 | 420磅   |\n| 大象  | 200金幣 | 40尺 | 1,320磅 |\n| 拖曳馬 | 50金幣  | 40尺 | 540磅   |\n| 騎乘馬 | 75金幣  | 60尺 | 480磅   |\n| 獒犬  | 25金幣  | 40尺 | 195磅   |\n| 小馬  | 30金幣  | 40尺 | 225磅   |\n| 軍馬  | 400金幣 | 60尺 | 540磅   |"
+      },
+      {
+        "name": "鞍具、馬具和車輛牽引",
+        "content": "| 物品       | 價格    | 重量   |\n| -------- | ----- | ---- |\n| 鎧具       | ×4    | ×2   |\n| 口環和轡繩    | 2金幣   | 1 磅  |\n| 馬車       | 100金幣 | 600磅 |\n| 手推車      | 15金幣  | 200磅 |\n| 戰車       | 250金幣 | 100磅 |\n| 飼料（每天）   | 5銅幣   | 10磅  |\n| 馬鞍       |       |      |\n| 異國馬鞍     | 60金幣  | 40磅  |\n| 軍用馬鞍     | 20金幣  | 30磅  |\n| 背包       | 5金幣   | 15磅  |\n| 騎乘馬鞍     | 10金幣  | 25磅  |\n| 馬鞍袋      | 4金幣   | 8磅   |\n| 雪橇       | 20金幣  | 300磅 |\n| 馬廄租用（每天） | 5銀幣   | —    |\n| 四輪馬車     | 35金幣  | 400磅 |"
+      },
+      {
+        "name": "水上交通工具",
+        "content": "| 物品  | 價格       | 速度       |\n| --- | -------- | -------- |\n| 龍船  | 30,000金幣 | 4 英里/小時  |\n| 平底船 | 3,000金幣  | 1 英里/小時  |\n| 長船  | 10,000金幣 | 3 英里/小時  |\n| 划艇  | 50金幣     | 1½ 英里/小時 |\n| 帆船  | 10,000金幣 | 2 英里/小時  |\n| 戰船  | 25,000金幣 | 2½ 英里/小時 |"
+      }
+    ]
   }
 ]
