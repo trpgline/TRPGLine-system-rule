@@ -8,6 +8,10 @@
     "name": "戰鬥"
   },
   {
+    "id": "spellcasting",
+    "name": "施法"
+  },
+  {
     "id": "movement",
     "name": "移動介紹"
   },

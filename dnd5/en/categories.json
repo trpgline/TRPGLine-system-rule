@@ -8,6 +8,10 @@
     "name": "Combat"
   },
   {
+    "id": "spellcasting",
+    "name": "Spellcasting"
+  },
+  {
     "id": "movement",
     "name": "Movement"
   },
