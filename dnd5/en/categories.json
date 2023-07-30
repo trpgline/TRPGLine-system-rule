@@ -20,6 +20,14 @@
     "name": "The Environment"
   },
   {
+    "id": "time",
+    "name": "Time"
+  },
+  {
+    "id": "resting",
+    "name": "Resting"
+  },
+  {
     "id": "equipment",
     "name": "Equipment"
   },

@@ -20,6 +20,14 @@
     "name": "環境"
   },
   {
+    "id": "time",
+    "name": "時間"
+  },
+  {
+    "id": "resting",
+    "name": "休息"
+  },
+  {
     "id": "equipment",
     "name": "裝備"
   },
