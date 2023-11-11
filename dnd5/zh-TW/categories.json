@@ -34,5 +34,9 @@
   {
     "id": "expenses",
     "name": "花費"
+  },
+  {
+    "id": "sage-advice",
+    "name": "智者建言(官方Q&A 2023)"
   }
 ]
