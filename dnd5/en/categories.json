@@ -1,5 +1,9 @@
 [
   {
+    "id": "character",
+    "name": "Character"
+  },
+  {
     "id": "race",
     "name": "Race"
   },
