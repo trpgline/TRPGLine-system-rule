@@ -1,5 +1,9 @@
 [
   {
+    "id": "character",
+    "name": "角色"
+  },
+  {
     "id": "race",
     "name": "種族"
   },
