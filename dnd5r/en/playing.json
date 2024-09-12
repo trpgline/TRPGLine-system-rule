@@ -1,0 +1,80 @@
+[
+  {
+    "id": "playerOrDM",
+    "name": "Player or DM",
+    "description": "To play D&D, you need one person to be the Dungeon Master and other players (three to six are best) to play adventurers. Which role is right for you?",
+    "tabs": []
+  },
+  {
+    "id": "rhythm",
+    "name": "Rhythm of Play",
+    "description": "The three main pillars of D&D play are social interaction, exploration, and combat. Whichever one you’re experiencing, the game unfolds according to this basic pattern:",
+    "tabs": []
+  },
+  {
+    "id": "anOngoingGame",
+    "name": "An Ongoing Game",
+    "description": "Sometimes a session of D&D is a complete game in itself (often called a “one-shot”), where you play a short adventure that lasts for just one session. More often, though, D&D sessions are connected in a longer adventure that takes several sessions to complete, and adventures can be strung together into a larger narrative called a campaign.\n\nA campaign is like a TV series, while an adventure is like a season of the series. And a game session is like a single episode—it might be self-contained, but it usually links to the larger plot if there is one.",
+    "tabs": []
+  },
+  {
+    "id": "dice",
+    "name": "Dice",
+    "description": "Dice add randomness to the game. They help determine whether characters and monsters are successful at the things they attempt.> **Round Down**\n>\n> Whenever you divide or multiply a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater. Some rules make an exception and tell you to round up.",
+    "tabs": []
+  },
+  {
+    "id": "theSixAbilities",
+    "name": "The Six Abilities",
+    "description": "All creatures—characters and monsters—have six abilities that measure physical and mental characteristics, as shown on the Ability Descriptions table.",
+    "tabs": []
+  },
+  {
+    "id": "D20 Tests",
+    "name": "Player or DM",
+    "description": "When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called D20 Tests, and they come in three kinds: ability checks, saving throws, and attack rolls. They follow these steps:\n\n1. **Roll 1d20**. You always want to roll high. If the roll has Advantage or Disadvantage (described later in this chapter), you roll two d20s, but you use the number from only one of them—the higher one if you have Advantage or the lower one if you have Disadvantage.\n2. **Add Modifiers**. Add these modifiers to the number rolled on the d20:\n    - **The Relevant Ability Modifier**. This chapter and the rules glossary explain which ability modifiers to use for various D20 Tests.\n    - **Your Proficiency Bonus If Relevant**. Each creature has a Proficiency Bonus, a number added when making a D20 Test that uses something, such as a skill, in which the creature has proficiency. See “Proficiency” later in this chapter.\n     - **Circumstantial Bonuses and Penalties**. A class feature, a spell, or another rule might give a bonus or penalty to the die roll.\n3. **Compare the Total to a Target Number**. If the total of the d20 and its modifiers equals or exceeds the target number, the D20 Test succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a Difficulty Class (DC). The target number for an attack roll is called an Armor Class (AC), which appears on a character sheet or in a stat block (see the rules glossary).\n",
+    "tabs": []
+  },
+  {
+    "id": "proficiency",
+    "name": "Proficiency",
+    "description": "Characters and monsters are good at various things. Some are skilled with many weapons, while others can use only a few. Some are better at understanding people’s motives, and others are better at unlocking the secrets of the multiverse. All creatures have a Proficiency Bonus, which reflects the impact that training has on the creature’s capabilities. A character’s Proficiency Bonus increases as the character gains levels (described in chapter 2). A monster’s Proficiency Bonus is based on its Challenge Rating (see the rules glossary). The Proficiency Bonus table shows how the bonus is determined.\n\nThis bonus is applied to a D20 Test when the creature has proficiency in a skill, in a saving throw, or with an item that the creature uses to make the D20 Test. The bonus is also used for spell attacks and for calculating the DC of saving throws for spells.",
+    "tabs": []
+  },
+  {
+    "id": "actions",
+    "name": "Actions",
+    "description": "When you do something other than moving or communicating, you typically take an action. The Action table lists the game’s main actions, which are defined in more detail in the rules glossary.",
+    "tabs": []
+  },
+  {
+    "id": "socialInteraction",
+    "name": "Social Interaction",
+    "description": "During their adventures, player characters meet many different people and face some monsters that would rather talk than fight. In those situations, it’s time for social interaction, which takes many forms. For example, you might try to convince a burglar to confess to wrongdoing or try to flatter a guard. The Dungeon Master assumes the roles of any nonplayer characters who are participating.\n\nAn NPC’s attitude toward your character is Friendly, Indifferent, or Hostile, as defined in the rules glossary. Friendly NPCs are predisposed to help, and Hostile ones are inclined to hinder.\n\nSocial interactions progress in two ways: through roleplaying and ability checks.",
+    "tabs": []
+  },
+  {
+    "id": "exploration",
+    "name": "Exploration",
+    "description": "Exploration involves delving into places that are dangerous and full of mystery. The rules in this section detail some of the ways adventurers interact with the environment in such places.",
+    "tabs": []
+  },
+  {
+    "id": "combat",
+    "name": "Combat",
+    "description": "Adventurers encounter many dangerous monsters and nefarious villains. In those moments, combat often breaks out.",
+    "tabs": []
+  },
+  {
+    "id": "damageandHealing",
+    "name": "Damage and Healing",
+    "description": "Injury and death are frequent threats in D&D, as detailed in the following rules.",
+    "tabs": []
+  },
+  {
+    "id": "conditions",
+    "name": "Conditions",
+    "description": "Many effects impose a condition, a temporary state that alters the recipient’s capabilities. The following conditions are defined in the rules glossary:\n\n    Blinded\n    Charmed\n    Deafened\n    Exhaustion\n    Frightened\n    Grappled\n    Incapacitated\n    Invisible\n    Paralyzed\n    Petrified\n    Poisoned\n    Prone\n    Restrained\n    Stunned\n    Unconscious\n\nThe definition of a condition specifies what happens to its recipient while affected by it, and some conditions apply other conditions.",
+    "tabs": []
+  }
+]
