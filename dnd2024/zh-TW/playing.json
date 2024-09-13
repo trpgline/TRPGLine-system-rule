@@ -294,7 +294,7 @@
   {
     "id": "conditions",
     "name": "狀態效果",
-    "description": "[Previous content remains unchanged]\n\n# 狀態效果\n\n許多效果會施加狀態效果，這是一種暫時改變受影響者能力的狀態。以下狀態效果在規則詞彙表中有定義：\n\n    目盲（Blinded）\n    魅惑（Charmed）\n    耳聾（Deafened）\n    力竭（Exhaustion）\n    恐懼（Frightened）\n    被擒（Grappled）\n    無力（Incapacitated）\n    隱形（Invisible）\n    麻痺（Paralyzed）\n    石化（Petrified）\n    中毒（Poisoned）\n    俯臥（Prone）\n    束縛（Restrained）\n    震懾（Stunned）\n    昏迷（Unconscious）\n\n狀態效果的定義指定了受影響者在受其影響時會發生什麼，某些狀態效果還會施加其他狀態效果。",
+    "description": "\n\n# 狀態效果\n\n許多效果會施加狀態效果，這是一種暫時改變受影響者能力的狀態。以下狀態效果在規則詞彙表中有定義：\n\n    目盲（Blinded）\n    魅惑（Charmed）\n    耳聾（Deafened）\n    力竭（Exhaustion）\n    恐懼（Frightened）\n    被擒（Grappled）\n    無力（Incapacitated）\n    隱形（Invisible）\n    麻痺（Paralyzed）\n    石化（Petrified）\n    中毒（Poisoned）\n    俯臥（Prone）\n    束縛（Restrained）\n    震懾（Stunned）\n    昏迷（Unconscious）\n\n狀態效果的定義指定了受影響者在受其影響時會發生什麼，某些狀態效果還會施加其他狀態效果。",
     "tabs": [
       {
         "name": "狀態",
