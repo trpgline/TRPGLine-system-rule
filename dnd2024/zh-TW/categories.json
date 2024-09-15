@@ -22,5 +22,9 @@
   {
     "id": "equipment",
     "name": "裝備"
+  },
+  {
+    "id": "spells",
+    "name": "法術"
   }
 ]
