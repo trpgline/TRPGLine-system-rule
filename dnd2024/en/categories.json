@@ -14,5 +14,9 @@
   {
     "id": "origins",
     "name": "Character Origins"
+  },
+  {
+    "id": "feats",
+    "name": "Feats"
   }
 ]

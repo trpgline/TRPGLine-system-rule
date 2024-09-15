@@ -14,5 +14,9 @@
   {
     "id": "origins",
     "name": "角色起源"
+  },
+  {
+    "id": "feats",
+    "name": "專長"
   }
 ]

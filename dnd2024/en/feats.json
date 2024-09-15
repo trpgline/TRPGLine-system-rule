@@ -1,0 +1,93 @@
+[
+  {
+    "id": "featDescriptions",
+    "name": "Feat Descriptions",
+    "description": "This chapter’s feats are organized by category—**Origin**, **General**, **Fighting Style**, or **Epic Boon**—and alphabetized in each category. All the feats are listed alphabetically in the **Feat List table**. If a feat can be taken more than once, an asterisk appears after its name in that table.",
+    "tabs": [
+      {
+        "name": "Parts of a Feat",
+        "content": "The description of a feat contains the following parts, which are presented after the feat’s name.\n\n**_Category._** A feat is a member of a category, which is noted in the feat. If you’re instructed to choose a feat from a specific category, such as the Origin category, that category must appear under the feat’s name. If you’re instructed to choose a feat and no category is specified, you can choose from any category.\n\n**_Prerequisite._** To take a feat, you must meet any prerequisite in its description unless a feature allows you to take the feat without the prerequisite. If a prerequisite includes a class, you must have at least 1 level in that class to take the feat.\n\n**_Benefit._** The benefits of a feat are detailed after any prerequisites are listed. If you have a feat, you gain its benefits.\n\n**_Repeatable._** A feat can be taken only once unless its description states otherwise in a “Repeatable” subsection."
+      },
+      {
+        "name": "Feat List",
+        "content": "| Feat | Category |\n| --- | --- |\n| **Ability Score Improvement*** | **General** |\n| **Alert** | **Origin** |\n| **Archery** | **Fighting Style** |\n| **Boon of Combat Prowess** | **Epic Boon** |\n| **Boon of Fate** | **Epic Boon** |\n| **Boon of the Night Spirit** | **Epic Boon** |\n| **Defense** | **Fighting Style** |\n| **Great Weapon Fighting** | **Fighting Style** |\n| **Magic Initiate*** | **Origin** |\n| **Savage Attacker** | **Origin** |\n| **Skilled*** | **Origin** |\n| **Two-Weapon Fighting** | **Fighting Style** |\n| \\*This feat can be taken more than once. |"
+      }
+    ]
+  },
+  {
+    "id": "originFeats",
+    "name": "Origin Feats",
+    "description": "These feats are in the Origin category.",
+    "tabs": [
+      {
+        "name": "Alert",
+        "content": "_Origin Feat_\n\nYou gain the following benefits.\n\n**_Initiative Proficiency._** When you roll **Initiative**, you can add your Proficiency Bonus to the roll.\n\n**_Initiative Swap._** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can’t make this swap if you or the ally has the **Incapacitated** condition."
+      },
+      {
+        "name": "Magic Initiate",
+        "content": "_Origin Feat_\n\nYou gain the following benefits.\n\n**_Two Cantrips._** You learn two cantrips of your choice from the **Cleric**, **Druid**, or **Wizard** spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat’s spells (choose when you select this feat).\n\n**_Level 1 Spell._** Choose a level 1 spell from the same list you selected for this feat’s cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a **Long Rest**. You can also cast the spell using any spell slots you have.\n\n**_Spell Change._** Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.\n\n**_Repeatable._** You can take this feat more than once, but you must choose a different spell list each time."
+      },
+      {
+        "name": "Savage Attacker",
+        "content": "_Origin Feat_\n\nYou’ve trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll the weapon’s damage dice twice and use either roll against the target."
+      },
+      {
+        "name": "Skilled",
+        "content": "_Origin Feat_\n\nYou gain proficiency in any combination of three skills or tools of your choice.\n\n**_Repeatable._** You can take this feat more than once."
+      }
+    ]
+  },
+  {
+    "id": "generalFeats",
+    "name": "General Feats",
+    "description": "These feats are in the General category.",
+    "tabs": [
+      {
+        "name": "Ability Score Improvement",
+        "content": "_General Feat (Prerequisite: Level 4+)_\n\nIncrease one ability score of your choice by 2, or increase two ability scores of your choice by 1. This feat can’t increase an ability score above 20.\n\n**_Repeatable._** You can take this feat more than once."
+      }
+    ]
+  },
+  {
+    "id": "fightingStyleFeats",
+    "name": "Fighting Style Feats",
+    "description": "These feats are in the Fighting Style category.",
+    "tabs": [
+      {
+        "name": "Archery",
+        "content": "_Fighting Style Feat (Prerequisite: Fighting Style Feature)_\n\nYou gain a +2 bonus to attack rolls you make with Ranged weapons."
+      },
+      {
+        "name": "Defense",
+        "content": "_Fighting Style Feat (Prerequisite: Fighting Style Feature)_\n\nWhile you’re wearing Light, Medium, or Heavy armor, you gain a +1 bonus to Armor Class."
+      },
+      {
+        "name": "Great Weapon Fighting",
+        "content": "_Fighting Style Feat (Prerequisite: Fighting Style Feature)_\n\nWhen you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the **Two-Handed** or **Versatile** property to gain this benefit."
+      },
+      {
+        "name": "Two-Weapon Fighting",
+        "content": "_Fighting Style Feat (Prerequisite: Fighting Style Feature)_\n\nWhen you make an extra attack as a result of using a weapon that has the **Light** property, you can add your ability modifier to the damage of that attack if you aren’t already adding it to the damage."
+      }
+    ]
+  },
+  {
+    "id": "epicBoonFeats",
+    "name": "Epic Boon Feats",
+    "description": "These feats are in the Epic Boon category.",
+    "tabs": [
+      {
+        "name": "Boon of Combat Prowess",
+        "content": "_Epic Boon Feat (Prerequisite: Level 19+)_\n\nYou gain the following benefits.\n\n**_Ability Score Increase._** Increase one ability score of your choice by 1, to a maximum of 30.\n\n**_Improve Fate._** When you or another creature within 60 feet of you succeeds on or fails a **D20 Test**, you can roll 2d4 and apply the total rolled as a bonus or penalty to the d20 roll. Once you use this benefit, you can’t use it again until you roll Initiative or finish a **Short** or **Long Rest**."
+      },
+      {
+        "name": "Boon of Fate",
+        "content": "_Epic Boon Feat (Prerequisite: Level 19+)_\n\nYou gain the following benefits.\n\n**_Ability Score Increase._** Increase one ability score of your choice by 1, to a maximum of 30.\n\n**_Improve Fate._** When you or another creature within 60 feet of you succeeds on or fails a **D20 Test**, you can roll 2d4 and apply the total rolled as a bonus or penalty to the d20 roll. Once you use this benefit, you can’t use it again until you roll Initiative or finish a **Short** or **Long Rest**."
+      },
+      {
+        "name": "Boon of the Night Spirit",
+        "content": "_Epic Boon Feat (Prerequisite: Level 19+)_\n\nYou gain the following benefits.\n\n**_Ability Score Increase._** Increase one ability score of your choice by 1, to a maximum of 30.\n\n**_Merge with Shadows._** While within **Dim Light** or **Darkness**, you can give yourself the **Invisible** condition as a Bonus Action. The condition ends on you immediately after you take an action, a Bonus Action, or a Reaction.\n\n**_Shadowy Form._** While within Dim Light or Darkness, you have Resistance to all damage except Psychic and Radiant."
+      }
+    ]
+  }
+]
