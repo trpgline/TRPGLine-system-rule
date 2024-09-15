@@ -18,5 +18,9 @@
   {
     "id": "feats",
     "name": "Feats"
+  },
+  {
+    "id": "equipment",
+    "name": "Equipment"
   }
 ]

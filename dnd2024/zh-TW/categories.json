@@ -18,5 +18,9 @@
   {
     "id": "feats",
     "name": "專長"
+  },
+  {
+    "id": "equipment",
+    "name": "裝備"
   }
 ]
