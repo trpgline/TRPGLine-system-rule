@@ -10,5 +10,9 @@
   {
     "id": "classes",
     "name": "Character Classes"
+  },
+  {
+    "id": "origins",
+    "name": "Character Origins"
   }
 ]

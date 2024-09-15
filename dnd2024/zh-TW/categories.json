@@ -10,5 +10,9 @@
   {
     "id": "classes",
     "name": "角色職業"
+  },
+  {
+    "id": "origins",
+    "name": "角色起源"
   }
 ]
