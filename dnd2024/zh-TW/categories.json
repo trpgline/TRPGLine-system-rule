@@ -26,5 +26,9 @@
   {
     "id": "spells",
     "name": "法術"
+  },
+  {
+    "id": "glossary",
+    "name": "規則詞彙表"
   }
 ]

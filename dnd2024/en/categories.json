@@ -26,5 +26,9 @@
   {
     "id": "spells",
     "name": "Spells"
+  },
+  {
+    "id": "glossary",
+    "name": "Rules Glossary"
   }
 ]
