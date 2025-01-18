@@ -34,7 +34,6 @@
         "name": "Food, Drink, and Lodging",
         "content": "|Item                |Cost |\n|--------------------|-----|\n|**Ale**                 |     |\n|  Gallon            |2 sp |\n|  Mug               |4 cp |\n|Banquet (per person)|10 gp|\n|Bread, loaf         |2 cp |\n|Cheese, hunk        |1 sp |\n|**Inn stay (per day)**  |     |\n|  Squalid           |7 cp |\n|  Poor              |1 sp |\n|  Modest            |5 sp |\n|  Comfortable       |8 sp |\n|  Wealthy           |2 gp |\n|  Aristocratic      |4 gp |\n|**Meals (per day)**     |     |\n|  Squalid           |3 cp |\n|  Poor              |6 cp |\n|  Modest            |3 sp |\n|  Comfortable       |5 sp |\n|  Wealthy           |8 sp |\n|  Aristocratic      |2 gp |\n|Meat, chunk         |3 sp |\n|**Wine**                |     |\n|  Common (pitcher)  |2 sp |\n|  Fine (bottle)     |10 gp|"
       }
-
     ]
   },
   {
