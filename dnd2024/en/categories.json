@@ -30,5 +30,17 @@
   {
     "id": "glossary",
     "name": "Rules Glossary"
+  },
+  {
+    "id": "basic",
+    "name": "DM: The Basics"
+  },
+  {
+    "id": "dmstoolbox",
+    "name": "DM: DM’s Toolbox"
+  },
+  {
+    "id": "magicitems",
+    "name": "DM: Magic Items"
   }
 ]

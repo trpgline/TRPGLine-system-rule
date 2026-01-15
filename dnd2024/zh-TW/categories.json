@@ -30,5 +30,17 @@
   {
     "id": "glossary",
     "name": "規則詞彙表"
+  },
+  {
+    "id": "basic",
+    "name": "DM: 基本規則"
+  },
+  {
+    "id": "dmstoolbox",
+    "name": "DM: DM 工具箱"
+  },
+  {
+    "id": "magicitems",
+    "name": "DM: 魔法物品"
   }
 ]
