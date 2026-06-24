@@ -84,8 +84,236 @@
     "description": "",
     "tabs": [
       {
-        "name": "Overview",
-        "content": ""
+        "name": "2.6 Skills",
+        "content": "This is a list of the skills a character may use. Skills are rated as a skill chance, or the percentage chance a character attempting the skill has of succeeding, a value somewhere between 0% (no chance whatsoever) to 100% or more, meaning, except in the case of a fumbled roll, it always succeeds. The base chance of using that skill is in parentheses after the skill name, so if the skill number is higher than 00%, you always have at least a 1 in 100 chance of using the skill successfully. Succeeding at a skill with a 01% rating generally means a lucky guess. If the skill is at 00%, it simply can’t be attempted with any hope of success.\n\nAny skill points a character has in a skill are added to the base skill chance. Skill base chances may be adjusted by the gamemaster based on the setting.\n\nA character with below 05% in a skill is a hapless novice. Someone with 06–25% is a neophyte. Skill of 26–50% represents an amateur level of proficiency. Skill in the 51–75% range indicates a competent professional. Experts have skills in the 76–90% range, and 91% or higher indicates mastery of a skill. Skills above 100% indicate some degree of secret knowledge or competence not accessible to others.\n\nSkill ratings can also be considered as basic competency. A skill rating of 25% does not mean that someone using the skill in daily activities fails three quarters of the time—it means that under stressful situations (like adventuring, combat, etc.) the character succeeds only a quarter of the time. Most mundane activities, such as driving to work, don’t require a skill roll so long as they’re within the reasonable range of competence, but, for example, making a high-speed turn through a busy intersection while firing a pistol out the window almost definitely requires a roll.\n\nMany skills have specialties, as noted in parentheses with each skill name. Specialties are specific sub-skills that define the skill. For example, a character may have Knowledge (Law) 70%. This does not mean they know all Knowledge skills at 70%, but instead knows Law at that percentage. All other skill specialties, unless skill points are spent on them, are at the base percentage chance."
+      },
+      {
+        "name": "Appraise (15%):",
+        "content": "Judging the value of an item or determining some aspects of its capabilities that are not immediately apparent."
+      },
+      {
+        "name": "Art (various) (05%):",
+        "content": "Painting, drawing, sculpture, photography, or another form of visual art. Each type of art is a specialty, so a character would have Art (Photography) as one skill, and Art (Painting) as another. Suggested specialties for Art include Architecture, Calligraphy, Film, Painting, Photography, Sculpture, etc."
+      },
+      {
+        "name": "Artillery (various) (% by weapon):",
+        "content": "Using heavy mounted weaponry, such as catapults, cannons, missile launchers, etc. Each type of artillery weapon is a specialty, such as Artillery include Cannon, Rocket Launcher, Siege Engine, etc."
+      },
+      {
+        "name": "Bargain (05%):",
+        "content": "Negotiating financial matters successfully. A successful use of this skill lowers the price of an item from one price range (unattainable > priceless > expensive > reasonable > inexpensive > cheap > free) to the one below, at the gamemaster’s discretion. These ranges are suggested and can be modified as desired."
+      },
+      {
+        "name": "Brawl (25%):",
+        "content": "Hitting someone in hand-to-hand combat, whether with a punch, head butt, kick, or even bite. A successful Brawl attack does 1D3 points of damage to an opponent."
+      },
+      {
+        "name": "Climb (40%):",
+        "content": "Scaling a wall, rope, or other difficult surface."
+      },
+      {
+        "name": "Command (05%):",
+        "content": "Leading a small-to-large group of followers in combat or through some other difficult activity requiring discipline and coordinated actions. If this skill fails, everyone is on their own and does not work together effectively."
+      },
+      {
+        "name": "Craft (various) (05%):",
+        "content": "The creation of some physical item for use, like woodworking, blacksmithing, sewing, cooking. Craft is generally more practical than Art, though less likely to achieve fame and recognition. Each type of Craft skill is a specialty."
+      },
+      {
+        "name": "Demolition (01%):",
+        "content": "Setting and detonating explosives to achieve maximum effect. Anyone can pull a pin on a grenade—use Demolition to jury-rig a bomb from household chemicals or to set explosives in the right places to bring a building down."
+      },
+      {
+        "name": "Disguise (01%):",
+        "content": "Concealing identity or appearance, or using some combination of makeup and costume to appear as someone or something else."
+      },
+      {
+        "name": "Dodge (DEX×2%):",
+        "content": "Avoiding injury from a physical attack."
+      },
+      {
+        "name": "Drive (various) (20% or 01%):",
+        "content": "Piloting a ground vehicle. For characters from the modern world, Drive is 20%; for others it begins at 01%. Each type of vehicle (Automobile, Cart, Chariot, Truck, etc.) is a specialty."
+      },
+      {
+        "name": "Energy Weapon (various) (% by weapon):",
+        "content": "Pointing and shooting an energy weapon at a target. Each type of Energy Weapon skill is a specialty, such as Energy Pistol and Energy Rifle."
+      },
+      {
+        "name": "Etiquette (05%):",
+        "content": "Knowing what to say and how to behave in a social situation, as well as understanding the various niceties of a particular social class."
+      },
+      {
+        "name": "Fast Talk (05%):",
+        "content": "Talking one’s way out of a rough situation or bluffing when there is no time for a reasoned argument or debate."
+      },
+      {
+        "name": "Fine Manipulation (05%):",
+        "content": "Finger dexterity, particularly important for disassembling things in a hurry or completing complex tasks requiring hand coordination. This might be used for picking locks."
+      },
+      {
+        "name": "Firearm (various) (% by weapon specialty):",
+        "content": "Pointing and shooting a firearm at a target. Each type of Firearm skill is a specialty, such as Machine Gun, Pistol, Revolver, Rifle, Shotgun, and Submachine Gun."
+      },
+      {
+        "name": "First Aid (30% or INT×1):",
+        "content": "Treating minor injuries. For characters from the modern or future eras, the base skill is 30%; for historical periods it’s INT×1. Each successful use restores 1D3 hit points to a wounded character. A special success restores 1D3+3 hit points."
+      },
+      {
+        "name": "Fly (DEX×½ or DEX×4):",
+        "content": "If the character has a technological means of flying (a jet pack, for example), the chance is DEX×½. If it’s a natural ability (like wings) the chance is DEX×4. Basic flight doesn’t require a roll—the skill is for use with maneuvers, in combat, and performing complex flying stunts."
+      },
+      {
+        "name": "Gaming (INT+POW):",
+        "content": "Knowledge of the rules and odds of various games of chance (cards, dice, etc.) and winning."
+      },
+      {
+        "name": "Grapple (25%):",
+        "content": "Wrestling or other means of open-handed combat relying on leverage and positioning to maneuver or immobilize an opponent."
+      },
+      {
+        "name": "Heavy Machine (various) (01%):",
+        "content": "Handling and maintaining a heavy machine, like a factory press, a thresher, etc. Each different type of Heavy Machine skill is a specialty."
+      },
+      {
+        "name": "Heavy Weapon (various) (by weapon specialty):",
+        "content": "Pointing and shooting a heavy weapon. Each different type of Heavy Weapon skill is a specialty, such as Bazooka, Heavy Machinegun, Mini-gun, Rocket Launcher, etc."
+      },
+      {
+        "name": "Hide (10%):",
+        "content": "Concealing oneself or an item from view. Often used in conjunction with Stealth."
+      },
+      {
+        "name": "Insight (05%):",
+        "content": "Evaluating another character’s concealed thoughts and/or motives based on subliminal clues. In some settings this might have specialties like Insight (Elves) or Insight (Aliens)."
+      },
+      {
+        "name": "Jump (25%):",
+        "content": "Leaping over an obstacle or across a span. Success for most humans usually equals a jump of roughly three meters horizontally or one meter vertically."
+      },
+      {
+        "name": "Knowledge (various) (05% or 01%):",
+        "content": "Familiarity with a specific branch of study. For characters from the modern or future eras, the base skill is 05%; for historical periods it’s 01%. Each type of Knowledge skill is a specialty. Specialties are numerous, and include Anthropology, Archaeology, Area (a region), Folklore, Group (an organization), History, Linguistics, Literature, Mythology, Occult, Politics, Streetwise, etc."
+      },
+      {
+        "name": "Language (various) (Own INT×5, Other 00%):",
+        "content": "Speaking and understanding a language. Language (Own) is a character’s ‘own’ native language and begins at INT×5. Generally, player characters do not need to make Language rolls to converse in their native languages with other speakers of the same language. Language (Other) is another language and begins at 00%. Each other Language skill is a specialty."
+      },
+      {
+        "name": "Listen (25%):",
+        "content": "Hearing a noise or faint sound, such as someone sneaking by or a monster approaching."
+      },
+      {
+        "name": "Literacy (various) (% equal to starting Language):",
+        "content": "Mainly appropriate for settings where education is not commonplace. Understanding and comprehension of what the character is reading. In settings where literature is not assumed, this might begin at 00%."
+      },
+      {
+        "name": "Martial Arts (01%):",
+        "content": "Using disciplined trained fighting techniques to deliver more powerful blows against an opponent or to block with one’s hands and feet without taking damage. The gamemaster may restrict who can use Martial Arts and adjust starting skill levels. Unlike other skills, Martial Arts is not rolled separately: if a character makes a Brawl attack and also rolls under Martial Arts skill, the damage die (but not the damage bonus) is doubled. When parrying a melee weapon with the Brawl skill, the character ignores 3 points of damage."
+      },
+      {
+        "name": "Medicine (05% or 00%):",
+        "content": "Treatment of serious medical conditions through pharmaceutical, therapeutic, or surgical means. For characters from the modern or future eras, the base skill is 05%; for historical periods it’s 00%. This is a time-consuming process and does not restore hit points immediately."
+      },
+      {
+        "name": "Melee Weapon (various) (% by weapon specialty):",
+        "content": "Using a hand-to-hand (melee) weapon in combat, including striking a target and parrying attacks. Each type of Melee Weapon skill is a specialty, such as Axe, Club, Dagger, Flail, Hammer, Mace, Polearm, Spear, Staff, Sword, etc."
+      },
+      {
+        "name": "Missile Weapon (various) (% by weapon specialty):",
+        "content": "Aiming and hitting a target with a ‘hand-powered’ weapon. Each type of Missile Weapon skill is a specialty, such as Bow, Crossbow, Spear, etc."
+      },
+      {
+        "name": "Navigate (10%):",
+        "content": "Charting and following a path through recognizable landmarks, constellations, or using a map to find a course."
+      },
+      {
+        "name": "Perform (various) (05%):",
+        "content": "Entertaining or performing in some fashion, whether through music, acting, acrobatics, comedy, etc. Each type of Perform is a specialty."
+      },
+      {
+        "name": "Persuade (15%):",
+        "content": "Using logic, reason, and emotional appeal to convince someone to agree to a specific course of action or avenue of thought. Unlike Fast Talk, Persuade takes time, supporting arguments, and a willing audience."
+      },
+      {
+        "name": "Pilot (various) (01%):",
+        "content": "Operating an air, sea, or space vehicle. Each vehicle type is a specialty, and some vehicles may require multiple pilots to operate."
+      },
+      {
+        "name": "Projection (DEX×2):",
+        "content": "If powers (magic, super, psychic, etc.) are used in a game, this is the ability to direct a powered attack at a target."
+      },
+      {
+        "name": "Psychotherapy (01%):",
+        "content": "Using psychiatry and psychological analysis to determine a patient’s psychological issues and address them through treatment. First Aid heals the body, but Psychotherapy heals the mind. This is a lengthy process handled through multiple sessions and in-depth personal evaluation and counseling. In historical periods this is either spiritual counseling."
+      },
+      {
+        "name": "Repair (various) (15%):",
+        "content": "Fixing something broken, jammed, disassembled, or otherwise inoperable. Each type of Repair is a specialty, such as Electrical, Electronic, Mechanical, Structural, Quantum, etc."
+      },
+      {
+        "name": "Research (25%):",
+        "content": "Using a source of references (library, newspaper archive, computer network, the internet, wizard’s grimoire, etc.) to discover desired pieces of information."
+      },
+      {
+        "name": "Ride (various) (05%):",
+        "content": "Riding an animal and controlling it in difficult situations. Each type of animal (horse, dragon, giant owl, etc.) is a specialty."
+      },
+      {
+        "name": "Science (various) (01%):",
+        "content": "Expertise in a field of study from the ‘hard sciences.’ Each type of Science skill is a specialty, such as Astronomy, Biology, Botany, Chemistry, Genetics, Geology, Mathematics, Meteorology, Physics, Zoology, etc."
+      },
+      {
+        "name": "Sense (10%):",
+        "content": "A combination of scent, taste, and touch—being able to detect subtle or hidden things with these senses."
+      },
+      {
+        "name": "Shield (various) (% by shield type):",
+        "content": "Parrying a blow with a shield. Each type of Shield skill is a specialty, such as Buckler, Energy, Full, Half, Heater, Hoplite, Kite, Round, etc."
+      },
+      {
+        "name": "Sleight of Hand (05%):",
+        "content": "Feats of prestidigitation and misdirection, such as picking pockets, palming coins, card tricks, and sleight-of-hand illusions."
+      },
+      {
+        "name": "Spot (25%):",
+        "content": "Detecting those things difficult to notice or otherwise hidden."
+      },
+      {
+        "name": "Status (various) (15%):",
+        "content": "Social standing, or the ability to manipulate one’s social environment in a favorable manner, such as borrowing money, gaining favors, impressing others, etc. Each type of Status skill is a specialty. Specialties might include City (a particular city), Group (one group or organization), High Society, Religion, Species (a particular species), etc."
+      },
+      {
+        "name": "Stealth (10%):",
+        "content": "Sneaking around to avoid detection or making otherwise concealed and furtive movements."
+      },
+      {
+        "name": "Strategy (01%):",
+        "content": "Tactical assessment of a situation and constructing an optimal response, gaining insight into the conditions on a battlefield or the tactics the enemy will use. Often utilized in military or political situations."
+      },
+      {
+        "name": "Swim (25%):",
+        "content": "Guiding oneself through the water with the intent of movement or prevention of drowning."
+      },
+      {
+        "name": "Teach (10%):",
+        "content": "Imparting knowledge to others. See the Experience section on page XX for more information."
+      },
+      {
+        "name": "Technical Skill (various) (00%):",
+        "content": "Use of a sophisticated piece of equipment or technical process. The base chance varies by setting and should be determined by the gamemaster, as appropriate. Each type of Technical skill is a specialty, such as Computer Programming, Computer Use, Electronics, Robotics, Sensor Systems, Siege Engines, Traps, etc."
+      },
+      {
+        "name": "Throw (25%):",
+        "content": "Aiming and tossing something (dart, football, baseball, rock, hat, etc.) through the air towards a target. Unlike the Missile Weapon skill, this is a catch-all for anything that isn’t specifically a weapon, and a successful roll doesn’t necessarily damage an opponent."
+      },
+      {
+        "name": "Track (10%):",
+        "content": "Following a trail of footprints, spoor, etc. in either direction."
+      },
+      {
+        "name": "Skill List Adjustments",
+        "content": "If desired, the gamemaster should modify the skill list to make it more appropriate to any given setting. The gamemaster should feel free to eliminate skills, rename them, or introduce new skills. For example, a medieval fantasy setting probably won’t utilize Energy Weapon, Heavy Machine, Psychotherapy, or Technical Skill. Beginning skill levels can also be adjusted for a specific campaign or setting."
       }
     ]
   },
@@ -95,8 +323,60 @@
     "description": "",
     "tabs": [
       {
-        "name": "Overview",
-        "content": ""
+        "name": "2.7 Professions and Professional Skills",
+        "content": "In Basic Roleplaying, a profession is a collection of skills appropriate to a character in that role. Each player character receives 300 skill points to allocate among these skills, as the player sees fit. There are no restrictions about what skills the character can learn in play through experience or additional training, and there is no minimum number of skill points that can be allocated to a professional skill. For example, a soldier has access to training in skills relating to firearms, but they may choose to have no training with Heavy Weapons. These skill points are added to the skill’s base chance, described above.\n\nFollowing are a dozen professions appropriate to a wide range of settings. Professions using powers (magic, for example) are not provided here."
+      },
+      {
+        "name": "Cowboy:",
+        "content": "Craft (usually knots), Firearm (Rifle), Knowledge (Natural History), Knowledge (Local Area), Listen, Navigate, Ride, Spot, Throw, Track."
+      },
+      {
+        "name": "Detective:",
+        "content": "Firearm (Handgun), Knowledge (Law), Listen, Persuade, Spot, Research, and four of the following: Art, Brawl, Disguise, Dodge, Drive, Fast Talk, Firearm (any), Grapple, Hide, Insight, Knowledge (any), Language (Other), Language (Own), Medicine, Ride, Science (any), Technical (Computer Use), Stealth, or Track."
+      },
+      {
+        "name": "Doctor:",
+        "content": "First Aid, Language (Own), Medicine, Persuade, Research, Spot, and choose four of the following: Insight, Language (Other), Psychotherapy, Science (any), and Status."
+      },
+      {
+        "name": "Hunter:",
+        "content": "Climb, Hide, Listen, Navigate, Spot, Stealth, Track, and three of the following: Firearm (Handgun, Rifle, or Shotgun), Knowledge (Natural History or Region), Melee Weapon (usually Spear), Missile Weapon (any), Language (Other), and Ride."
+      },
+      {
+        "name": "Lawman:",
+        "content": "Brawl, Dodge, Fast Talk, Knowledge (Law), Listen, Spot, and four of the following: Drive, Firearms (any), First Aid, Grapple, Insight, Knowledge (Region or Group), Language (Other), Martial Arts, Melee Weapon (any), Missile Weapon (any), Pilot (any), Ride, Status, Technical (Computer Use), or Track."
+      },
+      {
+        "name": "Noble:",
+        "content": "Bargain, Drive, Etiquette, Language (Own), Language (Other), Literacy, and Status, plus any other three skills as hobbies or fields of interest."
+      },
+      {
+        "name": "Sailor:",
+        "content": "Climb, Craft (any), Dodge, Grapple, Navigate, Pilot (Boat), Swim, and any three of the following: Artillery (any, usually shipboard), Command, Language (Other), Listen, Repair (Mechanical), Repair (Structural), or Spot."
+      },
+      {
+        "name": "Scientist:",
+        "content": "Craft (any), Persuade, Research, Status, Technical (Computer Use) or Heavy Machine, and any five appropriate Knowledge or Science related to field of study."
+      },
+      {
+        "name": "Soldier:",
+        "content": "Brawl, Climb, Dodge, First Aid, and six of the following: Artillery, Command, Drive, Firearm (usually Rifle, but any), Grapple, Heavy Weapon (any), Hide, Language (Other), Listen, Jump, Medicine, Melee Weapon (any), Missile Weapon (any), Navigate, Repair (Mechanical), Ride, Spot, Stealth, or Throw."
+      },
+      {
+        "name": "Spy:",
+        "content": "Dodge, Fast Talk, Hide, Listen, Research, Spot, Stealth, and three of the following: Art (Photography), Brawl, Disguise, Etiquette, Firearm (any), Grapple, Insight, Knowledge (any), Language (Other), Language (Own), Martial Arts, Navigate, Pilot (any), Repair (Electronics), Repair (Mechanical), Ride, Swim, Technical (Computer Use), Throw, or Track."
+      },
+      {
+        "name": "Thief:",
+        "content": "Appraise, Dodge, Fast Talk, Hide, Stealth, and five other skills from the following list: Bargain, Brawl, Climb, Disguise, Fine Manipulation, Firearm (Handgun or Shotgun), Grapple, Insight, Listen, Jump, Knowledge (Law), Persuade, Repair (Mechanical), or Spot."
+      },
+      {
+        "name": "Warrior:",
+        "content": "Brawl, Dodge, Grapple, Melee Weapon (any), Missile Weapon (any), and five other skills from the following list: Climb, Firearm (any), Hide, Listen, Jump, Language (Other), Martial Arts, Ride, Spot, Stealth, Swim, Throw, Track."
+      },
+      {
+        "name": "Custom Profession",
+        "content": "As an alternative to the established professions, the gamemaster may allow a player to create a new profession for their character. To do so, pick a suitable title for the profession and ten appropriate skills to spend 300 professional skill points on."
       }
     ]
   },
@@ -106,8 +386,8 @@
     "description": "",
     "tabs": [
       {
-        "name": "Overview",
-        "content": ""
+        "name": "2.8 Personal Skills",
+        "content": "Not everyone is entirely their profession, and a character shouldn’t be so narrowly defined. Multiply the INT characteristic by 10 and distribute those points across any skills desired, including skills from the character’s profession. These represent skills and training picked up elsewhere, either prior to their current profession or through personal interests. It could also represent a natural affinity for the skill.\n\nThe gamemaster may ask players not to raise any skill higher than 75% (unless the skill’s base is higher than 75%), and that any personal skills selected at this time make sense for the character to have."
       }
     ]
   },
@@ -117,8 +397,12 @@
     "description": "",
     "tabs": [
       {
-        "name": "Overview",
-        "content": ""
+        "name": "2.9 Equipment",
+        "content": "Now that the character is almost finished, they still need some gear. This can include weapons, armor, or other important paraphernalia used in their profession. In the course of play there are many chances to get more equipment, but each starting player character has in their immediate possession the following:\n\n- A set of clothing appropriate to the character’s profession and the setting.\n- An amount of pocket money; enough to last a little while without hardship. The higher the Status skill, the more money.\n- A personal heirloom, keepsake, or some trinket of little relative value.\n- Any trade tools or transportable equipment suitable to the character’s profession, if appropriate.\n- Any weapon the character has a skill of 50% or higher in, if appropriate.\n- Other items as appropriate based on the Status skill, setting, and subject to the gamemaster’s approval."
+      },
+      {
+        "name": "Equipment Circumstances",
+        "content": "This can be modified by the gamemaster based on circumstances: characters participating in a commando raid may be fully laden with weapons and tactical gear, while suburban civilians waking up to a zombie apocalypse may be limited to what they reasonably have on hand."
       }
     ]
   },
@@ -128,8 +412,8 @@
     "description": "",
     "tabs": [
       {
-        "name": "Overview",
-        "content": ""
+        "name": "2.10 Final Touches",
+        "content": "Any major aspects of characterization or background should be decided at this point. The gamemaster may wish to learn more about the character’s background for use in a campaign. This can include origin, family, education, religion, past actions, or goals. Generally, the more a player knows about the character, the more ‘real’ they become in play, though this is not always necessary. It’s just as bad to create too much background as it is to create too little.\n\nEach player should create as much background as feels comfortable. A one-shot scenario probably doesn’t need lot of character background, but for a longer campaign, the gamemaster and other players may have a hard time imagining the character if enough information hasn’t been provided.\n\nThe gamemaster always has the right to veto anything that’s objectionable or does not fit into the desired setting or tone."
       }
     ]
   }
