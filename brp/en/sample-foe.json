@@ -2,22 +2,25 @@
   {
     "id": "sample-foe",
     "name": "Sample Foe",
-    "description": "",
-    "tabs": [
-      {
-        "name": "Overview",
-        "content": ""
-      }
-    ]
+    "description": "The following creature is presented as a guideline for the gamemaster when describing non-player characters, monsters, or other opponents. Generally, non-human foes do not have APP values.",
+    "tabs": []
   },
   {
     "id": "bear",
     "name": "Bear",
-    "description": "",
+    "description": "Large land predators, bears are four-legged, thick-furred, clawed omnivores. Most bears live in forests, while polar bears dwell in arctic regions. They are generally fierce when protecting their young. This is a black bear, one of the most common types.",
     "tabs": [
       {
-        "name": "Overview",
-        "content": ""
+        "name": "Characteristics",
+        "content": "| Characteristic | Roll | Average |\n| --- | --- | --- |\n| STR | 3D6+10 | 20–21 |\n| CON | 2D6+6 | 13 |\n| SIZ | 3D6+10 | 20–21 |\n| INT | 5 | 5 |\n| POW | 3D6 | 10–11 |\n| DEX | 3D6 | 10–11 |"
+      },
+      {
+        "name": "Stat Block",
+        "content": "- **Move:** 14 (8 swimming)\n- **Hit Points:** 17\n- **Damage Bonus:** +2D6\n- **Armor:** 3-point fur\n- **Skills:** Climb 40%, Listen 75%, Sense 75%."
+      },
+      {
+        "name": "Attacks",
+        "content": "| Type | % | Damage |\n| --- | --- | --- |\n| Bite* | 25 | 1D10+½ damage bonus (db) |\n| Claws* | 40 | 1D6+db |\n| Slap** | 25 | 1D3+db |\n\n\\* Bears can attack twice in a round, using either two separate claw attacks or one claw and one bite attack.\n\n\\** The bear can make one slap attack per round, matching the bear’s damage done versus the target’s STR on the resistance table. Failure means the target is knocked prone. They can parry at half skill rating while prone."
       }
     ]
   }
