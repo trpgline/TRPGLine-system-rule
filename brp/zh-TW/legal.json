@@ -1,0 +1,46 @@
+[
+  {
+    "id": "brp-open-game-license",
+    "name": "BRP Open Game License, Version 1.0",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "definitions",
+    "name": "Definitions",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "grant",
+    "name": "Grant",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "copyright-notice",
+    "name": "Copyright Notice",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  }
+]

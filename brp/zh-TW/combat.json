@@ -1,0 +1,156 @@
+[
+  {
+    "id": "the-combat-round",
+    "name": "The Combat Round",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "statement-of-intent",
+    "name": "Statement of Intent",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "movement",
+    "name": "Movement",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "actions",
+    "name": "Actions",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "attacking",
+    "name": "Attacking",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "parrying",
+    "name": "Parrying",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "dodging",
+    "name": "Dodging",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "combat-summary",
+    "name": "Combat Summary",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "weapons-and-damage",
+    "name": "Weapons and Damage",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "armor",
+    "name": "Armor",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "shields",
+    "name": "Shields",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "damage-and-injury",
+    "name": "Damage and Injury",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "special-successes",
+    "name": "Special Successes",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "healing",
+    "name": "Healing",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  }
+]

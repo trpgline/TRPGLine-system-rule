@@ -1,0 +1,112 @@
+[
+  {
+    "id": "the-character-sheet",
+    "name": "The Character Sheet",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "identity",
+    "name": "Identity",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "characteristics",
+    "name": "Characteristics",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "characteristic-rolls",
+    "name": "Characteristic Rolls",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "derived-characteristics",
+    "name": "Derived Characteristics",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "skills",
+    "name": "Skills",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "professions-and-professional-skills",
+    "name": "Professions and Professional Skills",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "personal-skills",
+    "name": "Personal Skills",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "equipment",
+    "name": "Equipment",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "final-touches",
+    "name": "Final Touches",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  }
+]

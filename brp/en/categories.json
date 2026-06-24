@@ -1,0 +1,34 @@
+[
+  {
+    "id": "legal",
+    "name": "Legal Information"
+  },
+  {
+    "id": "introduction",
+    "name": "Introduction"
+  },
+  {
+    "id": "character-creation",
+    "name": "Character Creation"
+  },
+  {
+    "id": "system",
+    "name": "System"
+  },
+  {
+    "id": "time",
+    "name": "Time"
+  },
+  {
+    "id": "combat",
+    "name": "Combat"
+  },
+  {
+    "id": "spot-rules",
+    "name": "Spot Rules"
+  },
+  {
+    "id": "sample-foe",
+    "name": "Sample Foe"
+  }
+]

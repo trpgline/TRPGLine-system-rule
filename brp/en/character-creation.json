@@ -1,0 +1,136 @@
+[
+  {
+    "id": "the-character-sheet",
+    "name": "The Character Sheet",
+    "description": "This section covers the process of creating a player character for Basic Roleplaying. The procedure for creating a non-player character is less involved and is covered later.",
+    "tabs": [
+      {
+        "name": "2.1 The Character Sheet",
+        "content": "Each player needs a copy of the character sheet presented on page 22 of this book. It’s possible to just write everything on a blank sheet of paper, but the character sheet makes things a lot easier. The character sheet includes the following sections:\n\n- **Identity:** This is for the character’s basic information: aspects that don’t have any game effects but help detail who the character is.\n- **Characteristics & Rolls:** These values describe qualities of the character such as how strong and smart and fast and attractive they are, etc. Rolls are based off characteristics and are percentage values rolled to see if the character succeeds or fails at a task.\n- **Hit Points:** A value measuring how much damage a player character can take before they die. Bigger and/or healthier characters have more hit points (HP) while smaller and/or frailer characters have fewer.\n- **Skills:** These are the abilities the character has some innate knowledge, training, or education in. Each is expressed as a percentage chance, rolled to see if the character succeeds.\n- **Weapons:** These are weapons or attacks the character uses, along with descriptions of how they do damage to other characters.\n- **Armor:** Any armor worn by the character, which may reduce any damage they take from an attack.\n- **Equipment:** Other items the character may carry that may be of use."
+      }
+    ]
+  },
+  {
+    "id": "identity",
+    "name": "Identity",
+    "description": "",
+    "tabs": [
+      {
+        "name": "2.2 Identity",
+        "content": "This is the area where the character’s basic information is fleshed out, the aspects of existence with little (if any) game effect. These are roleplaying aspects—the things that define the character as a character, not simply as a list of characteristics and skills. The player can fill out this information now in full, or partially, and skip to characteristic and skill generation, or can hold off until they know more about the character’s game system aspects.\n\nIdentity includes the following:"
+      },
+      {
+        "name": "Identity Fields",
+        "content": "- **Name:** A suitable name for the character.\n- **Race:** These basic rules cover ‘Human,’ but other races are certainly more than possible.\n- **Gender:** Write ‘Female’ or ‘Male’ or whatever other gender works in a particular setting—there are no game system differences between genders.\n- **Handedness:** Is the character right- or left-handed? Pick one—there are no game system differences.\n- **Height and Weight:** Choose these using the Size (SIZ) characteristic (see below) as a guideline. These don’t have to be specific numbers, and could be as vague as ‘Tall,’ ‘Average,’ or ‘heavy.’\n- **Description:** This is a brief physical description of the character, and might include coloration (hair, eyes, skin), attitude, mode of dress, etc.\n- **Age:** Pick an age appropriate to the character, keeping characteristics in mind.\n- **Distinctive Features:** Using the Appearance (APP) characteristic as a guide (see below), does the character have any notable features? This can be an impressive scar, a broken nose, an exotic hairstyle, or an unusual mode of dress. Make up a few. The higher or lower the APP, the more distinctive features.\n- **Profession:** The character’s career or the occupation they are most identified with, or how they make their living. A list of professions is provided in section 2.7."
+      }
+    ]
+  },
+  {
+    "id": "characteristics",
+    "name": "Characteristics",
+    "description": "",
+    "tabs": [
+      {
+        "name": "2.3 Characteristics",
+        "content": "Characters in Basic Roleplaying are rated in a variety of ways. The most basic are their characteristics. These are the innate abilities a character has, such as how smart they are, how tough, how charismatic, etc. They are not learned abilities but can sometimes be increased through training and successful use. Normal humans have characteristics ranging from 3 (abysmally low) to 18 (a pinnacle of human potential), averaging at 10 or 11. The higher a characteristic, the more potent the character is in that ability.\n\nThe characteristics are: Strength, Constitution, Size, Intelligence, Power, Dexterity, and Appearance, and are described below."
+      },
+      {
+        "name": "Characteristic List",
+        "content": "- **Strength (STR):** Strength is essentially how strong the character is. It doesn’t necessarily mean raw muscle mass, but how effectively the character can exert that muscle to accomplish a strenuous physical feat. Roll 3D6 to determine STR.\n- **Constitution (CON):** Constitution is a measure of how tough and resilient the character is. It helps aid in resisting diseases, but the most significant aspect of CON is determining how much injury a character can suffer before dying. Roll 3D6 to determine CON.\n- **Size (SIZ):** Size is a measure of how large the character is. It doesn’t necessarily translate to raw height—it’s instead a general guide to physical mass. A high SIZ character could be very tall (and thin), or short and thick, or average height and overweight. Roll 2D6+6 to determine SIZ.\n- **Intelligence (INT):** Intelligence is how smart the character is: not necessarily as a measure of how much information the character has memorized, but reasoning power, intellectual acuity, problem-solving ability, and intuition. Roll 2D6+6 to determine INT.\n- **Power (POW):** Power is an almost intangible measure of force of will, personal dynamism, and spiritual energy. A high-POW character is a beacon of energy, lucky, and forceful in presence, while a low one is often ignored or missed, and is frequently unlucky. Roll 3D6 to determine POW.\n- **Dexterity (DEX):** Dexterity is a measure of hand-to-hand coordination, physical speed, and overall agility. DEX determines how quickly a character may act in combat and provides the basis for the Dodge skill. Roll 3D6 to determine DEX.\n- **Appearance (APP):** This is a measure of several aspects, from charisma, grace, and beauty/handsomeness to how appealing the character is to others. A high APP character is noticeable in a crowd because of an intangible combination of charm and presentation. Roll 3D6 to determine APP. (In some versions of these rules, APP is instead Charisma, or CHA.)"
+      },
+      {
+        "name": "Characteristic Adjustment",
+        "content": "If the characteristics aren’t exactly as desired, the player can move up to 3 points from one characteristic to another. For example, if a strong character is preferable to a smart one, move 3 points from INT over to STR. There is no requirement to move the whole 3 points, or any points at all.\n\nThe player should examine the set of characteristics and think about what the numbers represent. Are they strong and clumsy? Small and fast? Average? Is the character more of a thinker than a physical sort?\n\nIf the numbers just don’t match the type of character desired, the player should ask the gamemaster if it’s all right to start over and roll up a new set of characteristics. This is fine, so long as all of the players have the same opportunity and are happy with their results."
+      }
+    ]
+  },
+  {
+    "id": "characteristic-rolls",
+    "name": "Characteristic Rolls",
+    "description": "",
+    "tabs": [
+      {
+        "name": "2.4 Characteristic Rolls",
+        "content": "Many capabilities of a character are measured in skills. There are times, however, when a simpler roll is needed to determine if a character is successful at an activity based on a characteristic. If there is an opposing value, use the resistance table (described later). If there is no obviously opposing value, use a characteristic roll.\n\nEach characteristic roll is made against a characteristic multiplied by 5, expressed as a percentage chance. For example, a STR 10 would give an Effort roll of 10×5=50, or 50%."
+      },
+      {
+        "name": "Roll List",
+        "content": "- **Effort Roll:** The Effort roll is used for forceful manipulation of an object of environmental aspect. It’s based on STR×5. Trying to complete a hundred pushups requires an Effort roll.\n- **Stamina Roll:** The Stamina roll is used for prolonged physical exertion and tests of fortitude. It’s based on CON×5. Avoiding the common cold or trying to drink an entire bottle of salad dressing requires a Stamina roll.\n- **Idea Roll:** The Idea roll is used for a flash of inspiration, or to determine if the character ‘knows’ something that the player knows or having the character figure out something the player hasn’t. The gamemaster may sometimes use this roll to help prod the players when they don’t know what to do next (but when their characters would). It’s based on INT×5. Spotting the pattern in a series of crime scenes pinned on a map of the city requires an Idea roll.\n- **Luck Roll:** The Luck roll is to determine if fate gives the character a break or manages to squeak by at a situation where random chance may be a deciding factor (roulette, for example). It’s based on POW×5. Determining the winner of a coin toss or draw of the short straw requires a Luck roll.\n- **Agility Roll:** The Agility roll is useful for determining issues where natural hand/eye coordination are more important than any training, such as running on a slippery surface or catching a dropped item before it hits the ground. It’s based on DEX×5. Catching something thrown at a character with a “Think fast!” warning requires an Agility roll.\n- **Charisma Roll:** Raw charisma; being able to rely on good looks and personal charm to gain attention or sway others. It’s based on APP×5. Trying to catch the attention of a bouncer to be let into an exclusive club requires a Charisma roll."
+      }
+    ]
+  },
+  {
+    "id": "derived-characteristics",
+    "name": "Derived Characteristics",
+    "description": "",
+    "tabs": [
+      {
+        "name": "2.5 Derived Characteristics",
+        "content": "These are derived from other aspects of the characteristics or may be modified by other aspects, such as race."
+      },
+      {
+        "name": "Derived Values",
+        "content": "- **Move (MOV):** Move (MOV) is a game value, determining how far the character can move in a combat round. All humans have a MOV of 10. MOV is a flexible value, but generally each point of MOV equals one meter of movement. If running, it is equal to three meters per point.\n- **Hit Points:** Hit points (HP) are equal to the character’s CON+SIZ, divided by two (rounding fractions up). These are subtracted as the character takes damage from injury or other sources. When a character reaches 1 or 2 hit points, they fall unconscious. When a round of combat ends and a character is at 0 hit points, the character is dead.\n- **Power Points:** Power points are equal to POW and are spent to use magic or other powers. When a character reaches 0 power points, they fall unconscious. All power points regenerate after one full day that includes a night’s rest.\n- **Damage Bonus:** Bigger, stronger characters do more damage when hitting their foes with melee weapons. The damage modifier is applied to the damage rolled for any melee weapon attack the character makes. Add STR+SIZ and consult the following table."
+      },
+      {
+        "name": "Damage Bonus",
+        "content": "| STR+SIZ | Damage Modifier |\n| --- | --- |\n| 2 to 12 | −1D6 |\n| 13 to 16 | −1D4 |\n| 17 to 24 | None |\n| 25 to 32 | +1D4 |\n| 33 to 40 | +1D6 |\n| 41 to 56 | +2D6 |"
+      }
+    ]
+  },
+  {
+    "id": "skills",
+    "name": "Skills",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "professions-and-professional-skills",
+    "name": "Professions and Professional Skills",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "personal-skills",
+    "name": "Personal Skills",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "equipment",
+    "name": "Equipment",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "final-touches",
+    "name": "Final Touches",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "length-of-play",
+    "name": "Length of Play",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "materials-required-to-play",
+    "name": "Materials Required to Play",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "dice-and-reading-dice-results",
+    "name": "Dice and Reading Dice Results",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "responsibilities-of-the-gamemaster",
+    "name": "Responsibilities of the Gamemaster",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  }
+]

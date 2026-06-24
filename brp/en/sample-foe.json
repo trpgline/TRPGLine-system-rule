@@ -1,0 +1,24 @@
+[
+  {
+    "id": "sample-foe",
+    "name": "Sample Foe",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "bear",
+    "name": "Bear",
+    "description": "",
+    "tabs": [
+      {
+        "name": "Overview",
+        "content": ""
+      }
+    ]
+  }
+]
