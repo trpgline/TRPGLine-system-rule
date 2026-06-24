@@ -1,7 +1,7 @@
 [
   {
     "id": "narrative-time",
-    "name": "Narrative Time",
+    "name": "敷事時間",
     "description": "",
     "tabs": [
       {
@@ -12,7 +12,7 @@
   },
   {
     "id": "the-turn",
-    "name": "The Turn",
+    "name": "回合",
     "description": "",
     "tabs": [
       {
@@ -23,7 +23,7 @@
   },
   {
     "id": "the-combat-round",
-    "name": "The Combat Round",
+    "name": "戰鬥輪",
     "description": "",
     "tabs": [
       {
@@ -34,7 +34,7 @@
   },
   {
     "id": "skill-time",
-    "name": "Skill Time",
+    "name": "技能時長",
     "description": "",
     "tabs": [
       {

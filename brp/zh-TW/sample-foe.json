@@ -1,7 +1,7 @@
 [
   {
     "id": "sample-foe",
-    "name": "Sample Foe",
+    "name": "範例敵人",
     "description": "",
     "tabs": [
       {
@@ -12,7 +12,7 @@
   },
   {
     "id": "bear",
-    "name": "Bear",
+    "name": "熊",
     "description": "",
     "tabs": [
       {

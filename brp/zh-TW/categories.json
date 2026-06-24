@@ -5,30 +5,30 @@
   },
   {
     "id": "introduction",
-    "name": "Introduction"
+    "name": "簡介"
   },
   {
     "id": "character-creation",
-    "name": "Character Creation"
+    "name": "角色創建"
   },
   {
     "id": "system",
-    "name": "System"
+    "name": "系統"
   },
   {
     "id": "time",
-    "name": "Time"
+    "name": "時間"
   },
   {
     "id": "combat",
-    "name": "Combat"
+    "name": "戰鬥"
   },
   {
     "id": "spot-rules",
-    "name": "Spot Rules"
+    "name": "特殊規則"
   },
   {
     "id": "sample-foe",
-    "name": "Sample Foe"
+    "name": "範例敵人"
   }
 ]

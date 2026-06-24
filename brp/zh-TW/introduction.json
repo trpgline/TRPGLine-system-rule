@@ -1,7 +1,7 @@
 [
   {
     "id": "length-of-play",
-    "name": "Length of Play",
+    "name": "遊戲時長",
     "description": "",
     "tabs": [
       {
@@ -12,7 +12,7 @@
   },
   {
     "id": "materials-required-to-play",
-    "name": "Materials Required to Play",
+    "name": "遊戲所需材料",
     "description": "",
     "tabs": [
       {
@@ -23,7 +23,7 @@
   },
   {
     "id": "dice-and-reading-dice-results",
-    "name": "Dice and Reading Dice Results",
+    "name": "擲骰和擲骰結果的解讀",
     "description": "",
     "tabs": [
       {
@@ -34,7 +34,7 @@
   },
   {
     "id": "responsibilities-of-the-gamemaster",
-    "name": "Responsibilities of the Gamemaster",
+    "name": "遊戲主持人的責任",
     "description": "",
     "tabs": [
       {

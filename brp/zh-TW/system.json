@@ -1,7 +1,7 @@
 [
   {
     "id": "success-or-failure",
-    "name": "Success or Failure?",
+    "name": "成功還是失敗？",
     "description": "",
     "tabs": [
       {
@@ -12,7 +12,7 @@
   },
   {
     "id": "skill-rolls",
-    "name": "Skill Rolls",
+    "name": "技能檢定",
     "description": "",
     "tabs": [
       {
@@ -23,7 +23,7 @@
   },
   {
     "id": "skill-vs-skill",
-    "name": "Skill vs. Skill",
+    "name": "技能對抗技能",
     "description": "",
     "tabs": [
       {
@@ -34,7 +34,7 @@
   },
   {
     "id": "the-resistance-table",
-    "name": "The Resistance Table",
+    "name": "抵抗表",
     "description": "",
     "tabs": [
       {
@@ -45,7 +45,7 @@
   },
   {
     "id": "experience",
-    "name": "Experience",
+    "name": "成長",
     "description": "",
     "tabs": [
       {

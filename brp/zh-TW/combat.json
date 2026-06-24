@@ -1,7 +1,7 @@
 [
   {
     "id": "the-combat-round",
-    "name": "The Combat Round",
+    "name": "戰鬥輪",
     "description": "",
     "tabs": [
       {
@@ -12,7 +12,7 @@
   },
   {
     "id": "statement-of-intent",
-    "name": "Statement of Intent",
+    "name": "意圖聲明",
     "description": "",
     "tabs": [
       {
@@ -23,7 +23,7 @@
   },
   {
     "id": "movement",
-    "name": "Movement",
+    "name": "移動",
     "description": "",
     "tabs": [
       {
@@ -34,7 +34,7 @@
   },
   {
     "id": "actions",
-    "name": "Actions",
+    "name": "行動",
     "description": "",
     "tabs": [
       {
@@ -45,7 +45,7 @@
   },
   {
     "id": "attacking",
-    "name": "Attacking",
+    "name": "攻擊",
     "description": "",
     "tabs": [
       {
@@ -56,7 +56,7 @@
   },
   {
     "id": "parrying",
-    "name": "Parrying",
+    "name": "招架",
     "description": "",
     "tabs": [
       {
@@ -67,7 +67,7 @@
   },
   {
     "id": "dodging",
-    "name": "Dodging",
+    "name": "閃避",
     "description": "",
     "tabs": [
       {
@@ -78,7 +78,7 @@
   },
   {
     "id": "combat-summary",
-    "name": "Combat Summary",
+    "name": "戰鬥概覽",
     "description": "",
     "tabs": [
       {
@@ -89,7 +89,7 @@
   },
   {
     "id": "weapons-and-damage",
-    "name": "Weapons and Damage",
+    "name": "武器與傷害",
     "description": "",
     "tabs": [
       {
@@ -100,7 +100,7 @@
   },
   {
     "id": "armor",
-    "name": "Armor",
+    "name": "護甲",
     "description": "",
     "tabs": [
       {
@@ -111,7 +111,7 @@
   },
   {
     "id": "shields",
-    "name": "Shields",
+    "name": "盾牌",
     "description": "",
     "tabs": [
       {
@@ -122,7 +122,7 @@
   },
   {
     "id": "damage-and-injury",
-    "name": "Damage and Injury",
+    "name": "傷害與創傷",
     "description": "",
     "tabs": [
       {
@@ -133,7 +133,7 @@
   },
   {
     "id": "special-successes",
-    "name": "Special Successes",
+    "name": "特殊成功",
     "description": "",
     "tabs": [
       {
@@ -144,7 +144,7 @@
   },
   {
     "id": "healing",
-    "name": "Healing",
+    "name": "治療",
     "description": "",
     "tabs": [
       {

@@ -1,7 +1,7 @@
 [
   {
     "id": "ambush",
-    "name": "Ambush",
+    "name": "偷襲",
     "description": "",
     "tabs": [
       {
@@ -12,7 +12,7 @@
   },
   {
     "id": "backstab",
-    "name": "Backstab",
+    "name": "背刺",
     "description": "",
     "tabs": [
       {
@@ -23,7 +23,7 @@
   },
   {
     "id": "cover",
-    "name": "Cover",
+    "name": "掩體",
     "description": "",
     "tabs": [
       {
@@ -34,7 +34,7 @@
   },
   {
     "id": "darkness",
-    "name": "Darkness",
+    "name": "黑暗環境",
     "description": "",
     "tabs": [
       {
@@ -45,7 +45,7 @@
   },
   {
     "id": "disease",
-    "name": "Disease",
+    "name": "疾病",
     "description": "",
     "tabs": [
       {
@@ -56,7 +56,7 @@
   },
   {
     "id": "drawing-a-weapon",
-    "name": "Drawing a Weapon",
+    "name": "拔出武器",
     "description": "",
     "tabs": [
       {
@@ -67,7 +67,7 @@
   },
   {
     "id": "falling",
-    "name": "Falling",
+    "name": "摔落",
     "description": "",
     "tabs": [
       {
@@ -78,7 +78,7 @@
   },
   {
     "id": "firing-into-combat",
-    "name": "Firing into Combat",
+    "name": "射擊近戰目標",
     "description": "",
     "tabs": [
       {
@@ -89,7 +89,7 @@
   },
   {
     "id": "knockout-attacks",
-    "name": "Knockout Attacks",
+    "name": "擊暈攻擊",
     "description": "",
     "tabs": [
       {
@@ -100,7 +100,7 @@
   },
   {
     "id": "poison",
-    "name": "Poison",
+    "name": "毒藥",
     "description": "",
     "tabs": [
       {
@@ -111,7 +111,7 @@
   },
   {
     "id": "poison-antidotes",
-    "name": "Poison Antidotes",
+    "name": "解毒劑",
     "description": "",
     "tabs": [
       {

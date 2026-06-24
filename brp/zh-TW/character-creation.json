@@ -1,7 +1,7 @@
 [
   {
     "id": "the-character-sheet",
-    "name": "The Character Sheet",
+    "name": "角色卡",
     "description": "",
     "tabs": [
       {
@@ -12,7 +12,7 @@
   },
   {
     "id": "identity",
-    "name": "Identity",
+    "name": "身份",
     "description": "",
     "tabs": [
       {
@@ -23,7 +23,7 @@
   },
   {
     "id": "characteristics",
-    "name": "Characteristics",
+    "name": "屬性",
     "description": "",
     "tabs": [
       {
@@ -34,7 +34,7 @@
   },
   {
     "id": "characteristic-rolls",
-    "name": "Characteristic Rolls",
+    "name": "屬性檢定",
     "description": "",
     "tabs": [
       {
@@ -45,7 +45,7 @@
   },
   {
     "id": "derived-characteristics",
-    "name": "Derived Characteristics",
+    "name": "衍生屬性",
     "description": "",
     "tabs": [
       {
@@ -56,7 +56,7 @@
   },
   {
     "id": "skills",
-    "name": "Skills",
+    "name": "技能",
     "description": "",
     "tabs": [
       {
@@ -67,7 +67,7 @@
   },
   {
     "id": "professions-and-professional-skills",
-    "name": "Professions and Professional Skills",
+    "name": "職業和職業技能",
     "description": "",
     "tabs": [
       {
@@ -78,7 +78,7 @@
   },
   {
     "id": "personal-skills",
-    "name": "Personal Skills",
+    "name": "個人技能",
     "description": "",
     "tabs": [
       {
@@ -89,7 +89,7 @@
   },
   {
     "id": "equipment",
-    "name": "Equipment",
+    "name": "裝備",
     "description": "",
     "tabs": [
       {
@@ -100,7 +100,7 @@
   },
   {
     "id": "final-touches",
-    "name": "Final Touches",
+    "name": "最後的完善",
     "description": "",
     "tabs": [
       {
