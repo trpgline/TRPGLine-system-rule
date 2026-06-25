@@ -12,25 +12,15 @@
   },
   {
     "id": "the-turn",
-    "name": "The Turn",
-    "description": "",
-    "tabs": [
-      {
-        "name": "4.2 The Turn",
-        "content": "When it’s important to take note of the exact passage of time, but not in actual combat, time is measured in turns. Each turn equals five minutes (25 combat rounds). Turns are used for general movement when there is no conflict or other event that must be handled on a minute-by-minute basis. It is also a general measure for how long certain activities take, particularly actions that are not during combat, such as picking a lock or finding a book in a library. In these cases, the gamemaster may rule that a certain task takes a specific number of turns to complete."
-      }
-    ]
+    "name": "4.2 The Turn",
+    "description": "When it’s important to take note of the exact passage of time, but not in actual combat, time is measured in turns. Each turn equals five minutes (25 combat rounds). Turns are used for general movement when there is no conflict or other event that must be handled on a minute-by-minute basis. It is also a general measure for how long certain activities take, particularly actions that are not during combat, such as picking a lock or finding a book in a library. In these cases, the gamemaster may rule that a certain task takes a specific number of turns to complete.",
+    "tabs": []
   },
   {
     "id": "the-combat-round",
-    "name": "The Combat Round",
-    "description": "",
-    "tabs": [
-      {
-        "name": "4.3 The Combat Round",
-        "content": "A combat round is used during combat sequences, when it’s important to note exactly what happens and in which order. A combat round consists of 12 seconds of fast-paced activity. If the combat takes more than one combat round, another combat round begins immediately after. Combat rounds are repeated until the combat is over. A character usually gets one attack or other action and can potentially make multiple defensive actions in a combat round. During a combat round, if a character does nothing else, they can walk about 10 meters or run about 30 meters and still be able to watch what is going on nearby, parry incoming blows, and react to emergencies."
-      }
-    ]
+    "name": "4.3 The Combat Round",
+    "description": "A combat round is used during combat sequences, when it’s important to note exactly what happens and in which order. A combat round consists of 12 seconds of fast-paced activity. If the combat takes more than one combat round, another combat round begins immediately after. Combat rounds are repeated until the combat is over. A character usually gets one attack or other action and can potentially make multiple defensive actions in a combat round. During a combat round, if a character does nothing else, they can walk about 10 meters or run about 30 meters and still be able to watch what is going on nearby, parry incoming blows, and react to emergencies.",
+    "tabs": []
   },
   {
     "id": "skill-time",

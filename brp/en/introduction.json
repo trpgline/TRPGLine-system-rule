@@ -16,35 +16,20 @@
   },
   {
     "id": "materials-required-to-play",
-    "name": "Materials Required to Play",
-    "description": "",
-    "tabs": [
-      {
-        "name": "1.2 Materials Required to Play",
-        "content": "Players need little other than these rules, a pencil, paper, and a set of gaming dice. Dice are available at most gaming and hobby stores, and come in a variety of colors, shapes, and sizes. There are also dice-rolling apps. See below for more information on dice and dice-rolling methods. Some gaming groups use miniatures as a representation of the characters: if so, players might each bring a miniature resembling their player character. The primary ingredient required is creative energy, though snacks are also appreciated.\n\n[Download BRP Character Sheet](/doc/TRPGLine-system-rule/brp/en/character-sheet.pdf)"
-      }
-    ]
+    "name": "1.2 Materials Required to Play",
+    "description": "Players need little other than these rules, a pencil, paper, and a set of gaming dice. Dice are available at most gaming and hobby stores, and come in a variety of colors, shapes, and sizes. There are also dice-rolling apps. See below for more information on dice and dice-rolling methods. Some gaming groups use miniatures as a representation of the characters: if so, players might each bring a miniature resembling their player character. The primary ingredient required is creative energy, though snacks are also appreciated.\n\n[Download BRP Character Sheet](/doc/TRPGLine-system-rule/brp/en/character-sheet.pdf)",
+    "tabs": []
   },
   {
     "id": "dice-and-reading-dice-results",
-    "name": "Dice and Reading Dice Results",
-    "description": "",
-    "tabs": [
-      {
-        "name": "1.3 Dice and Reading Dice Results",
-        "content": "Basic Roleplaying uses a variety of polyhedral dice to obtain random results. These are available in a wide range of sizes, colors, and qualities from games and hobby stores, or other sources. To play, a group needs at least one set of these dice, though it is easier and more convenient if each player has a set. A set of gaming dice includes the following dice: four-sided (D4), six-sided (D6), eight-sided (D8), ten-sided (D10), twelve-sided (D12), and twenty-sided (D20). A percentile die (marked in increments of 10) is also useful.\n\nThe most important dice roll in Basic Roleplaying is the percentile dice roll, which is a roll of two ten-sided dice (or one ten-sided die rolled twice). In a percentile dice roll, the first value is the “tens” while the second is the “ones.” If rolling two D10, read the first result as the “tens die”—thus, a roll of 3 and 7 on percentile dice means a result of 37. Generally, with percentile dice, the lower you roll, the better.\n\nOther dice rolls involve multiples, combinations, or dice results that are modified. For example, 3D6 means roll three six-sided dice, 1D10+1D4 means roll one D10 and one D4 and add the results together, D8+1 means roll a D8 and add 1 to the result, and D6−2 means roll a D6 and subtract 2 from the result. Die rolls are never modified to below 0, however. In the example of D6−2, a roll of 1 or 2 still equals 0."
-      }
-    ]
+    "name": "1.3 Dice and Reading Dice Results",
+    "description": "Basic Roleplaying uses a variety of polyhedral dice to obtain random results. These are available in a wide range of sizes, colors, and qualities from games and hobby stores, or other sources. To play, a group needs at least one set of these dice, though it is easier and more convenient if each player has a set. A set of gaming dice includes the following dice: four-sided (D4), six-sided (D6), eight-sided (D8), ten-sided (D10), twelve-sided (D12), and twenty-sided (D20). A percentile die (marked in increments of 10) is also useful.\n\nThe most important dice roll in Basic Roleplaying is the percentile dice roll, which is a roll of two ten-sided dice (or one ten-sided die rolled twice). In a percentile dice roll, the first value is the “tens” while the second is the “ones.” If rolling two D10, read the first result as the “tens die”—thus, a roll of 3 and 7 on percentile dice means a result of 37. Generally, with percentile dice, the lower you roll, the better.\n\nOther dice rolls involve multiples, combinations, or dice results that are modified. For example, 3D6 means roll three six-sided dice, 1D10+1D4 means roll one D10 and one D4 and add the results together, D8+1 means roll a D8 and add 1 to the result, and D6−2 means roll a D6 and subtract 2 from the result. Die rolls are never modified to below 0, however. In the example of D6−2, a roll of 1 or 2 still equals 0.",
+    "tabs": []
   },
   {
     "id": "responsibilities-of-the-gamemaster",
-    "name": "Responsibilities of the Gamemaster",
-    "description": "",
-    "tabs": [
-      {
-        "name": "1.4 Responsibilities of the Gamemaster",
-        "content": "At times, the gamemaster has the most fun in the game, but this comes with the largest share of responsibility. Each player must share the spotlight with all the other players, the gamemaster is constantly interacting with all the players. Using a published scenario or one they have created, the gamemaster narrates the game universe and acts as the player characters’ opposition. That opposition must be challenging and entertaining (or the players will be bored) and it must be presented fairly (or they will be outraged); otherwise the game will not be fun (which is the primary point of roleplaying).\n\nThe gamemaster should read and be familiar with these rules. Know the general procedures for combat and powers, but it’s not necessary to memorize everything—most questions can be answered as they arise.\n\nAs for scenarios, there are a vast range of scenarios for many different settings and games. Chaosium Inc. has published many adventures for Call of Cthulhu, RuneQuest, and other game lines, most of which are based off the Basic Roleplaying system. Other games are plentiful—and converting a scenario from one of them to Basic Roleplaying is fairly easy. Ideas for scenarios are also easy to come by—almost any film or book with some aspect of danger and excitement can be turned into a roleplaying scenario.\n\nUltimately, all that’s required is to come up with a story, write up some foes or encounters, and invite some friends over and have them create characters. Summarize the rules for them, and it’s time to play."
-      }
-    ]
+    "name": "1.4 Responsibilities of the Gamemaster",
+    "description": "At times, the gamemaster has the most fun in the game, but this comes with the largest share of responsibility. Each player must share the spotlight with all the other players, the gamemaster is constantly interacting with all the players. Using a published scenario or one they have created, the gamemaster narrates the game universe and acts as the player characters’ opposition. That opposition must be challenging and entertaining (or the players will be bored) and it must be presented fairly (or they will be outraged); otherwise the game will not be fun (which is the primary point of roleplaying).\n\nThe gamemaster should read and be familiar with these rules. Know the general procedures for combat and powers, but it’s not necessary to memorize everything—most questions can be answered as they arise.\n\nAs for scenarios, there are a vast range of scenarios for many different settings and games. Chaosium Inc. has published many adventures for Call of Cthulhu, RuneQuest, and other game lines, most of which are based off the Basic Roleplaying system. Other games are plentiful—and converting a scenario from one of them to Basic Roleplaying is fairly easy. Ideas for scenarios are also easy to come by—almost any film or book with some aspect of danger and excitement can be turned into a roleplaying scenario.\n\nUltimately, all that’s required is to come up with a story, write up some foes or encounters, and invite some friends over and have them create characters. Summarize the rules for them, and it’s time to play.",
+    "tabs": []
   }
 ]
